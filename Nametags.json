@@ -1,0 +1,56 @@
+{
+    "ping": "שٍٍٍٍٍٍٍٍٍٍ",
+    "pong": "ค็",
+    "joinDelay": 5,
+    "owner": {
+        "id": 8016947765
+    },
+    "boosters": [],
+    "vips": [],
+    "icons": {
+        "owner":   "rbxassetid://138670656825161",
+        "booster": "rbxassetid://99032544105168",
+        "user":    "rbxassetid://138670656825161"
+    },
+    "ranks": {
+        "owner": {
+            "label":       "LYNX OWNER",
+            "strokeCol":   [180, 0, 255],
+            "strokeThick": 2,
+            "rankCol":     [200, 0, 255],
+            "userCol":     [180, 120, 220],
+            "orbs":        true,
+            "orbColor":    [200, 100, 255],
+            "shimmer":     false
+        },
+        "booster": {
+            "label":       "LYNX BOOSTER",
+            "strokeCol":   [200, 80, 255],
+            "strokeThick": 2,
+            "rankCol":     [210, 80, 255],
+            "userCol":     [200, 130, 240],
+            "orbs":        true,
+            "orbColor":    [220, 100, 255],
+            "shimmer":     true
+        },
+        "vip": {
+            "label":       "LYNX VIP",
+            "strokeCol":   [255, 215, 0],
+            "strokeThick": 2,
+            "rankCol":     [255, 225, 50],
+            "userCol":     [240, 220, 130],
+            "orbs":        true,
+            "orbColor":    [255, 220, 40],
+            "shimmer":     true
+        },
+        "user": {
+            "label":       "LYNX USER",
+            "strokeCol":   [60, 0, 100],
+            "strokeThick": 1.2,
+            "rankCol":     [110, 0, 180],
+            "userCol":     [120, 100, 140],
+            "orbs":        false,
+            "shimmer":     false
+        }
+    }
+}
