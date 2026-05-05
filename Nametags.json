@@ -44,7 +44,7 @@
             "shimmer":     true
         },
         "user": {
-            "label":       "LYNX USER",
+            "label":       "LYNX slaves",
             "strokeCol":   [60, 0, 100],
             "strokeThick": 1.2,
             "rankCol":     [110, 0, 180],
