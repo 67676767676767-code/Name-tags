@@ -2,56 +2,127 @@
     "ping": "שٍٍٍٍٍٍٍٍٍٍ",
     "pong": "ค็",
     "joinDelay": 5,
-    "owner": {
-        "id": 4960473167
-    },
+    "owner": { "id": 0 },
     "boosters": [],
     "vips": [],
+    "staff": [],
+    "mods": [],
+    "devs": [],
+    "partners": [],
+    "supporters": [],
+    "members": [],
     "icons": {
-        "owner":   "rbxassetid://138670656825161",
-        "booster": "rbxassetid://99032544105168",
-        "user":    "rbxassetid://138670656825161",
-        "custom":  "rbxassetid://135871355024321",
+        "owner":     "rbxassetid://138670656825161",
+        "booster":   "rbxassetid://99032544105168",
+        "vip":       "rbxassetid://138670656825161",
+        "staff":     "rbxassetid://138670656825161",
+        "mod":       "rbxassetid://138670656825161",
+        "dev":       "rbxassetid://138670656825161",
+        "partner":   "rbxassetid://138670656825161",
+        "supporter": "rbxassetid://138670656825161",
+        "member":    "rbxassetid://138670656825161",
+        "user":      "rbxassetid://138670656825161"
     },
     "ranks": {
         "owner": {
-            "label":       "LYNX OWNER",
-            "strokeCol":   [180, 0, 255],
+            "label": "LYNX OWNER",
+            "strokeCol": [180, 0, 255],
             "strokeThick": 2,
-            "rankCol":     [200, 0, 255],
-            "userCol":     [180, 120, 220],
-            "orbs":        true,
-            "orbColor":    [200, 100, 255],
-            "shimmer":     false
+            "rankCol": [200, 0, 255],
+            "userCol": [180, 120, 220],
+            "orbs": true,
+            "orbColor": [200, 100, 255],
+            "shimmer": false
         },
         "booster": {
-            "label":       "LYNX BOOSTER",
-            "strokeCol":   [200, 80, 255],
+            "label": "LYNX BOOSTER",
+            "strokeCol": [200, 80, 255],
             "strokeThick": 2,
-            "rankCol":     [210, 80, 255],
-            "userCol":     [200, 130, 240],
-            "orbs":        true,
-            "orbColor":    [220, 100, 255],
-            "shimmer":     true
+            "rankCol": [210, 80, 255],
+            "userCol": [200, 130, 240],
+            "orbs": true,
+            "orbColor": [220, 100, 255],
+            "shimmer": true
         },
         "vip": {
-            "label":       "LYNX VIP",
-            "strokeCol":   [255, 215, 0],
+            "label": "LYNX VIP",
+            "strokeCol": [255, 215, 0],
             "strokeThick": 2,
-            "rankCol":     [255, 225, 50],
-            "userCol":     [240, 220, 130],
-            "orbs":        true,
-            "orbColor":    [255, 220, 40],
-            "shimmer":     true
+            "rankCol": [255, 225, 50],
+            "userCol": [240, 220, 130],
+            "orbs": true,
+            "orbColor": [255, 220, 40],
+            "shimmer": true
+        },
+        "staff": {
+            "label": "LYNX STAFF",
+            "strokeCol": [255, 165, 0],
+            "strokeThick": 2,
+            "rankCol": [255, 180, 20],
+            "userCol": [230, 190, 120],
+            "orbs": true,
+            "orbColor": [255, 170, 30],
+            "shimmer": true
+        },
+        "mod": {
+            "label": "LYNX MOD",
+            "strokeCol": [50, 180, 255],
+            "strokeThick": 2,
+            "rankCol": [80, 200, 255],
+            "userCol": [140, 210, 255],
+            "orbs": true,
+            "orbColor": [60, 190, 255],
+            "shimmer": true
+        },
+        "dev": {
+            "label": "LYNX DEV",
+            "strokeCol": [50, 255, 100],
+            "strokeThick": 2,
+            "rankCol": [80, 255, 120],
+            "userCol": [140, 255, 170],
+            "orbs": true,
+            "orbColor": [60, 255, 110],
+            "shimmer": true
+        },
+        "partner": {
+            "label": "LYNX PARTNER",
+            "strokeCol": [255, 100, 180],
+            "strokeThick": 2,
+            "rankCol": [255, 120, 200],
+            "userCol": [255, 170, 220],
+            "orbs": true,
+            "orbColor": [255, 110, 190],
+            "shimmer": true
+        },
+        "supporter": {
+            "label": "LYNX SUPPORTER",
+            "strokeCol": [160, 100, 255],
+            "strokeThick": 1.5,
+            "rankCol": [175, 120, 255],
+            "userCol": [190, 150, 255],
+            "orbs": true,
+            "orbColor": [165, 110, 255],
+            "shimmer": true
+        },
+        "member": {
+            "label": "LYNX MEMBER",
+            "strokeCol": [80, 80, 80],
+            "strokeThick": 1.2,
+            "rankCol": [160, 160, 160],
+            "userCol": [130, 130, 130],
+            "orbs": false,
+            "orbColor": [0, 0, 0],
+            "shimmer": false
         },
         "user": {
-            "label":       "LYNX USER",
-            "strokeCol":   [60, 0, 100],
+            "label": "LYNX USER",
+            "strokeCol": [60, 0, 100],
             "strokeThick": 1.2,
-            "rankCol":     [110, 0, 180],
-            "userCol":     [120, 100, 140],
-            "orbs":        false,
-            "shimmer":     false
+            "rankCol": [110, 0, 180],
+            "userCol": [120, 100, 140],
+            "orbs": false,
+            "orbColor": [0, 0, 0],
+            "shimmer": false
         }
     }
 }
