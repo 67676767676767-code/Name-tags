@@ -10,7 +10,8 @@
     "icons": {
         "owner":   "rbxassetid://138670656825161",
         "booster": "rbxassetid://99032544105168",
-        "user":    "rbxassetid://138670656825161"
+        "user":    "rbxassetid://138670656825161",
+        "custom":  "rbxassetid://135871355024321",
     },
     "ranks": {
         "owner": {
