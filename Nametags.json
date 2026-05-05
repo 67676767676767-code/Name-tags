@@ -1,16 +1,21 @@
 {
+  {
     "ping": "שٍٍٍٍٍٍٍٍٍٍ",
     "pong": "ค็",
     "joinDelay": 5,
     "owner": { "id": 10819220760 },
-    "boosters": [],
-    "vips": [],
-    "staff": [],
-    "mods": {"id":  },
-    "devs": [],
-    "partners": [],
+    "boosters":   [],
+    "vips":       [],
+    "staff":      [],
+    "mods":       [],
+    "devs":       [],
+    "partners":   [],
     "supporters": [],
-    "members": [],
+    "members":    [],
+    "legends":    [],
+    "elites":     [],
+    "veterans":   [],
+    "trusted":    [],
     "icons": {
         "owner":     "rbxassetid://138670656825161",
         "booster":   "rbxassetid://99032544105168",
@@ -21,6 +26,10 @@
         "partner":   "rbxassetid://138670656825161",
         "supporter": "rbxassetid://138670656825161",
         "member":    "rbxassetid://138670656825161",
+        "legend":    "rbxassetid://138670656825161",
+        "elite":     "rbxassetid://138670656825161",
+        "veteran":   "rbxassetid://138670656825161",
+        "trusted":   "rbxassetid://138670656825161",
         "user":      "rbxassetid://138670656825161"
     },
     "ranks": {
@@ -104,6 +113,46 @@
             "orbColor": [165, 110, 255],
             "shimmer": true
         },
+        "legend": {
+            "label": "LYNX LEGEND",
+            "strokeCol": [255, 60, 60],
+            "strokeThick": 2,
+            "rankCol": [255, 80, 80],
+            "userCol": [255, 150, 150],
+            "orbs": true,
+            "orbColor": [255, 70, 70],
+            "shimmer": true
+        },
+        "elite": {
+            "label": "LYNX ELITE",
+            "strokeCol": [0, 220, 200],
+            "strokeThick": 2,
+            "rankCol": [0, 240, 220],
+            "userCol": [100, 255, 240],
+            "orbs": true,
+            "orbColor": [0, 230, 210],
+            "shimmer": true
+        },
+        "veteran": {
+            "label": "LYNX VETERAN",
+            "strokeCol": [200, 140, 60],
+            "strokeThick": 2,
+            "rankCol": [220, 160, 80],
+            "userCol": [240, 200, 140],
+            "orbs": true,
+            "orbColor": [210, 150, 70],
+            "shimmer": true
+        },
+        "trusted": {
+            "label": "LYNX TRUSTED",
+            "strokeCol": [80, 200, 120],
+            "strokeThick": 1.5,
+            "rankCol": [100, 220, 140],
+            "userCol": [150, 240, 180],
+            "orbs": true,
+            "orbColor": [90, 210, 130],
+            "shimmer": false
+        },
         "member": {
             "label": "LYNX MEMBER",
             "strokeCol": [80, 80, 80],
@@ -124,5 +173,6 @@
             "orbColor": [0, 0, 0],
             "shimmer": false
         }
-    }
+    },
+    "customTabs": []
 }
