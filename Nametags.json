@@ -52,5 +52,14 @@
             "orbs":        false,
             "shimmer":     false
         }
+        "custom": {
+            "label":       "LYNX RACIST",
+            "strokeCol":   [255, 0, 0],
+            "strokeThick": 1.2,
+            "rankCol":     [255, 255, 0],
+            "userCol":     [255, 192, 203],
+            "orbs":        false
+            "shimmer":     true
+        }
     }
 }
